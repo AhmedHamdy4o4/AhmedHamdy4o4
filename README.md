@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an AI  & Fullstack web developer I am actively looking for a role focused on operationalizing AI<br>particularly LLMs, within a growth environment.<br>I specialize in creating the pipeline from research to deployment<br>fine-tuning models, integrating them into scalable Django backends Ensuring reliable, high-performance delivery. I want to contribute to a team where I can both apply my skills in MLOps and advance my experience in building the next generation of AI-powered applications and predictive modeling.
+I'm an AI  Engineer & Fullstack web developer I am actively looking for a role focused on operationalizing AI particularly LLMs, within a growth environment. I specialize in creating the pipeline from research to deployment fine-tuning models, integrating them into scalable Django backends Ensuring reliable, high-performance delivery. I want to contribute to a team where I can both apply my skills in MLOps and advance my experience in building the next generation of AI-powered applications and predictive modeling.
 
 
 ## 🌐 Socials:
